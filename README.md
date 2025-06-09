@@ -1,2 +1,3 @@
 # DraGon Slayer
-![DGS 타이틀](https://github.com/user-attachments/assets/2a06155f-524d-4ecd-9538-4164c5f2bc1f)
+
+![DGS 프로젝트 포스터](https://github.com/user-attachments/assets/9190f517-26cf-4ea8-9a64-02c371a24461)
