@@ -40,14 +40,14 @@
 > - 몬스터 종류
 >
 > - -
-<detail>
-<summary> > - 레벨업 시 증강 선택으로 성장 <summary>
+
+> - 레벨업 시 증강 선택으로 성장
 
 >   ![레벨업 시 증강 선택](https://github.com/user-attachments/assets/8f50586a-d84f-4b92-86e5-db6eb7b06d3c)
 > - 증강 종류
 >
 > - 
-</detail>
+
 > - 보스 사냥
 >   ![보스사냥](https://github.com/user-attachments/assets/aa55722b-061e-46e1-9cbf-2729dbafd17a)
 >   ![클리어 화면](https://github.com/user-attachments/assets/96b6174c-f0c0-4c02-a7b9-83ea7e972a79)
