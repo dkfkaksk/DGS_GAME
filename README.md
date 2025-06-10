@@ -159,8 +159,7 @@
                 <img src="https://github.com/user-attachments/assets/4aaa2eb1-7e01-44f9-9636-dcc9fcea6fdc" alt="">
             </li><br>
             <li>
-                각종 스텟들 - <br>
-                <img src="https://github.com/user-attachments/assets/556f1f0a-0f44-4576-91eb-0bba982d507a" alt="">
+                각종 스텟들<br>
             </li>
             <li>
                 <table>
