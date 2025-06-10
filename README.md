@@ -84,17 +84,16 @@
                 보스 몬스터 - <br>
                 <img src="https://github.com/user-attachments/assets/556f1f0a-0f44-4576-91eb-0bba982d507a" alt="">
                 <ul>
-                    <li></li>
                     <li>보스 패턴
                         <ul>
-                            <li>1. 브레스 - </li>
-                            <li><img src="" alt=""></li>
-                            <li>2. 토네이도 - </li>
-                            <li><img src="" alt=""></li>
-                            <li>3. 돌진 및 브레스 - </li>
-                            <li><img src="" alt=""></li>
-                            <li>4. 운석 - </li>
-                            <li><img src="" alt=""></li>
+                            <li>1. 브레스 -  <br>
+                            <img src="" alt=""></li>
+                            <li>2. 토네이도 -  <br>
+                            <img src="" alt=""></li>
+                            <li>3. 돌진 및 브레스 -  <br>
+                            <img src="" alt=""></li>
+                            <li>4. 운석 -  <br>
+                            <img src="" alt=""></li>
                         </ul>
                     </li>
                 </ul>
