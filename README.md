@@ -37,12 +37,13 @@
 
 > - 스폰되는 몬스터 사냥(경험치,골드 획득)
 >   ![몬스터 사냥 및 경험치 골드 드랍](https://github.com/user-attachments/assets/451a254c-55c0-4445-95f3-35756c53c703)
-> - 몬스터 종류
+<details>
+<summary>몬스터 종류</summary>
 >   - 근접 몬스터
 >     - 
 >   - 원거리 몬스터
 >     - 
-
+</details>
 > - 레벨업 시 증강 선택으로 성장
 
 >   ![레벨업 시 증강 선택](https://github.com/user-attachments/assets/8f50586a-d84f-4b92-86e5-db6eb7b06d3c)
