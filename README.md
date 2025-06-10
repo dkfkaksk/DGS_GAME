@@ -45,7 +45,7 @@
 >   ![보스사냥](https://github.com/user-attachments/assets/aa55722b-061e-46e1-9cbf-2729dbafd17a)
 >   ![클리어 화면](https://github.com/user-attachments/assets/96b6174c-f0c0-4c02-a7b9-83ea7e972a79)
 
-> - 플레이 후 모인 골드로 능력치 업그레이드
+> - 플레이 후 모인 골드로 능력치 업그레이드(체력 5회 업그레이드로 체력이 1.5배로 늘어남)
 >   ![능력치 업그레이드(체력)](https://github.com/user-attachments/assets/72eafcf0-8a97-43ce-aa9e-d928351dbaad)
 >   ![체력 업그레이드 5회](https://github.com/user-attachments/assets/01b7c658-8866-4bc2-a2be-e22526066ce4)
 
