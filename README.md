@@ -116,5 +116,3 @@
 >   ![능력치 업그레이드(체력)](https://github.com/user-attachments/assets/72eafcf0-8a97-43ce-aa9e-d928351dbaad)
 >   ![체력 업그레이드 5회](https://github.com/user-attachments/assets/01b7c658-8866-4bc2-a2be-e22526066ce4)
 
-
-](url)
