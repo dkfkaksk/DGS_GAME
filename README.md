@@ -39,10 +39,20 @@
 >   ![몬스터 사냥 및 경험치 골드 드랍](https://github.com/user-attachments/assets/451a254c-55c0-4445-95f3-35756c53c703)
 <details>
 <summary>몬스터 종류</summary>
->   - 근접 몬스터
->     - ㄴㅁㅇ
->   - 원거리 몬스터
->     - ㅁㄴㅇ
+<ul>
+  <li>근접 몬스터
+    <ul>
+      <li>빠르게 접근해 공격</li>
+      <li>체력은 높음</li>
+    </ul>
+  </li>
+  <li>원거리 몬스터
+    <ul>
+      <li>일정 거리에서 투사체 발사</li>
+      <li>체력은 낮음</li>
+    </ul>
+  </li>
+</ul>
 </details>
 > - 레벨업 시 증강 선택으로 성장
 
