@@ -99,13 +99,14 @@
                             <li>3. 돌진 및 브레스 - 하늘로 날아오르는 애니메이션 이후 보스방의 대각선의 범위를 빠르게 이동하며 대미지를 줌 <br>
                             <img src="" alt=""></li>
                             <li>4. 운석 - 보스방에 들어가고 패턴이 시작되면 지속적으로 정해놓은 시간마다 운석이 떨어지며 운석에 맞으면 데미지를 줌 <br>
-                            <img src="" alt=""></li>
+                            <img src="https://github.com/user-attachments/assets/d4e8fdbd-a481-4eb9-976e-6ecffabf62de" alt=""></li>
                         </ul>
                     </li>
                 </ul>
             </li>
         </ul>
     </details>
+
 
 
 > - 레벨업 시 증강 선택으로 성장
