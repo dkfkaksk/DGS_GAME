@@ -111,51 +111,51 @@
 <details>
         <summary>:large_blue_diamond:<strong>증강 종류 (Monster Types)</strong></summary>
         <ul>
-            <li>스톰 - <br>
+            <li>스톰 - 플레이어의 중심을 기준으로 랜덤한 방향으로 투사체를 발사함<br>
                 <img src="https://github.com/user-attachments/assets/22be9130-59d0-41eb-ab74-5331b2940d3e" alt="">
             </li>
-            <li>낙뢰 - <br>
+            <li>낙뢰 - 플레이어 주변의 몬스터 중 몇 마리에게 데미지를 주고 장판을 남겨 지속 데미지를 줌<br>
                 <img src="https://github.com/user-attachments/assets/40e08e46-6fe7-467c-8e79-97f255bc5a40" alt="">
             </li>
-            <li>매직 미사일 - <br>
+            <li>매직 미사일 - 플레이어를 기준으로 오른쪽, 왼쪽으로 번갈아가며 세 갈래의 투사체를 날림<br>
                 <img src="https://github.com/user-attachments/assets/9cab85fd-50ac-4409-a590-e23dd03abc11" alt="">
             </li>
-            <li>부메랑 - <br>
+            <li>부메랑 - 플레이어를 기준으로 가장 가까운 적에게 날아갔다 돌아오면서 데미지를 줌<br>
                 <img src="https://github.com/user-attachments/assets/c3d6260c-1fd7-462b-92f7-53a14423e81a" alt="">
             </li>
-            <li>빛의 화살 - <br>
+            <li>빛의 화살 - 플레이어에게 가장 가까운 몬스터에게 투사체를 날림<br>
                 <img src="https://github.com/user-attachments/assets/a748b6af-b88d-4b1c-ae72-6cf1cd18d809" alt="">
             </li><br>
-            <li>수호검 - <br>
+            <li>수호검 - 플레이어 주변을 공전하는 검을 소환하여 닿는 몬스터에게 데미지를 줌 <br>
                 <img src="https://github.com/user-attachments/assets/517be042-95a2-4a00-a0b5-87c01a2a3819" alt="">
-            <li>암흑 구체 - <br>
+            <li>암흑 구체 - 플레이어에게 가장 가까운 몬스터에게 투사체를 날리고 그 몬스터에게 가까운 몬스터로 날아가 다시 데미지를 주는 방식 (롤의 스태틱과 비슷)<br>
                 <img src="https://github.com/user-attachments/assets/f26c860b-3508-4375-afb5-3e7cc59652e5" alt="">
             </li>
-            <li>얼음 미사일 - <br>
+            <li>얼음 미사일 - 플레이어를 기준으로 랜덤한 방향으로 다섯갈래의 투사체를 날려 닿은 몬스터들에게 데미지를 줌<br>
                 <img src="https://github.com/user-attachments/assets/cfabf23c-4491-4138-ba40-4c2a330c6fc4" alt="">
             </li><br>
-            <li>얼음 방패 - <br>
+            <li>얼음 방패 - 1회 데미지가 들어오는 것을 막아주며 막으면 주변 범위의 몬스터들에게 데미지를 줌<br>
                 <img src="https://github.com/user-attachments/assets/788c53be-01ad-44b6-96a5-99d79de7ef59" alt="">
             </li>
-            <li>얼음 역장 - <br>
+            <li>얼음 역장 - 플레이어에게 얼음 타입의 역장이 생기며 닿아있는 몬스터들에게 지속적으로 데미지를 줌<br>
                 <img src="https://github.com/user-attachments/assets/005ce0c6-5cef-4a68-8ef8-b8e5a14a748c" alt="">
             </li>
-            <li>절멸자 - <br>
+            <li>절멸자 - 랜덤한 지점에 생기며 넓은 범위에 강한 데미지를 줌<br>
                 <img src="https://github.com/user-attachments/assets/132356a4-62d6-4330-97cc-b421db30fdcf" alt="">
             </li>
-            <li>튕기는 수리검 - <br>
+            <li>튕기는 수리검 - 플레이어를 기준으로 랜덤한 방향으로 투사체가 날아가며 투사체가 벽에 닿으면 각도대로 다시 튕겨나며 데미지를 줌<br>
                 <img src="https://github.com/user-attachments/assets/e1c8e305-751b-4ed9-8dde-816f635e5c14" alt="">
             </li>
-            <li>화염 정령 - <br>
+            <li>화염 정령 - 플레이어를 기준으로 공전하는 불꽃을 생성시키고 생성된 불꽃은 가장 가까운 몬스터를 향해 공전 함<br>
                 <img src="https://github.com/user-attachments/assets/c59e4046-fa53-43bb-a771-c3a9b041f009" alt="">
             </li>
-            <li>영혼 연결 - <br>
+            <li>영혼 연결 - 플레이어에게 가장 가까운 순서의 몬스터 몇 마리에게 데미지를 줌<br>
                 <img src="https://github.com/user-attachments/assets/64e94bc8-ebd5-4893-9c89-c498e689e51d" alt="">
             </li>
-            <li>전사 기본 무기 - <br>
+            <li>전사 기본 무기 - 전사 캐릭터를 중심으로 마우스 에임에 따라 데미지를 주는 방향이 달라지며 가까운 범위의 몬스터에게 데미지를 줌<br>
                 <img src="https://github.com/user-attachments/assets/4417734d-19e3-42a4-8f88-c24a1a1b0f0a" alt="">
             </li>
-            <li>마법사 기본 무기 - <br>
+            <li>마법사 기본 무기 - 마법사 캐릭터를 기준으로 마우스 에임을 향해 날아가는 투사체를 발사하며 투사체에 닿은 적 모두에게 데미지를 줌<br>
                 <img src="https://github.com/user-attachments/assets/4aaa2eb1-7e01-44f9-9636-dcc9fcea6fdc" alt="">
             </li><br>
             <li>
