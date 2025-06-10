@@ -163,7 +163,24 @@
                 <img src="https://github.com/user-attachments/assets/556f1f0a-0f44-4576-91eb-0bba982d507a" alt="">
             </li>
             <li>
-                ㅁㄴㅇ
+                <table>
+                 <thead>
+                   <tr>
+                     <th>스텟 이름</th>
+                     <th>이미지</th>
+                   </tr>
+                 </thead>
+                 <tbody>
+                   <tr>
+                     <td>체력 증가</td>
+                     <td><img src="https://github.com/user-attachments/assets/72eafcf0-8a97-43ce-aa9e-d928351dbaad" width="64"/></td>
+                   </tr>
+                   <tr>
+                     <td>공격력 증가</td>
+                     <td><img src="https://github.com/user-attachments/assets/01b7c658-8866-4bc2-a2be-e22526066ce4" width="64"/></td>
+                   </tr>
+                </tbody>
+              </table>
             </li>
         </ul>
     </details>
