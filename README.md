@@ -1,4 +1,4 @@
-![화염정령](https://github.com/user-attachments/assets/6e6090ad-14a5-4073-88a2-9cebb8265435)[ # DGS - DraGon Slayer
+# DGS - DraGon Slayer
 - 유니티 버전 - 2022.3.60f (URP)
 - 플레이 기기 - PC
 
