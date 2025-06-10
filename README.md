@@ -42,21 +42,21 @@
         <ul>
             <li>근접 몬스터
                 <ul>
-                    <li>일반 근접 몬스터 - <br>
+                    <li>일반 근접 몬스터 - 기본적인 근거리 몬스터의 형태로 플레이어에게 닿았을 때 데미지를 줌<br>
                     <img src="https://github.com/user-attachments/assets/d0502ba4-327d-4de4-b279-1debdb8a6a8a" alt=""></li>
-                    <li>독 몬스터 - <br>
+                    <li>독 몬스터 - 플레이어에게 닿았을 때 데미지 그리고 몬스터 사망 시 그 자리에 독 장판이 생기며 독 장판에 있는 플레이어에게 데미지를 줌<br>
                     <img src="https://github.com/user-attachments/assets/0da05959-1081-4223-9aff-ca8ee5b78251" alt=""></li>
-                    <li>자폭 몬스터 - <br>
+                    <li>자폭 몬스터 - 해당 몬스터 사망시 주변에 있는 플레이어에게 데미지를 줌<br>
                     <img src="https://github.com/user-attachments/assets/5a43d354-9cf6-49bf-b3ab-aca1c8753228" alt=""></li>
-                    <li>분열 몬스터 - <br>
+                    <li>분열 몬스터 - 해당 몬스터가 사망 시 작은 몬스터로 분열하게 됨<br>
                     <img src="https://github.com/user-attachments/assets/09eeca35-033c-4757-8b46-8a243d417c4e" alt=""></li><br>
                 </ul>
             </li>
             <li>원거리 몬스터
                 <ul>
-                    <li>기본 투사체 발사하는 몬스터 - <br>
+                    <li>기본 투사체 발사하는 몬스터 - 원거리에서 플레이어에게 투사체를 날려 데미지를 줌<br>
                     <img src="https://github.com/user-attachments/assets/1bbf3924-79f5-4f56-9778-445179d3699d" alt=""></li>
-                    <li>플레이어의 위치에 독 장판 뿌리는 몬스터 - <br>
+                    <li>플레이어의 위치에 독 장판 뿌리는 몬스터 - 원거리에서 플레이어가 있는 지점으로 독 장판을 생성시키며 독 장판에 있는 플레이어에게 데미지를 줌<br>
                     <img src="https://github.com/user-attachments/assets/a02a4144-b8f0-417d-9e2a-1fa44bc164ea" alt=""></li><br>
                 </ul>
             </li>
