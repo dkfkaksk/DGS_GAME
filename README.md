@@ -78,6 +78,9 @@
                             <img src="https://github.com/user-attachments/assets/b9d429db-35f4-49a9-88ae-8142d8e222a1" alt=""></li><br>
                         </ul>
                     </li>
+                    <li>엘리트 몬스터 드랍 아이템 - 자석 아이템, hp회복 아이템</li>
+                    <li>자석 아이템 - <img src="https://github.com/user-attachments/assets/8fb863b9-daf5-408c-8144-895d921deb43" alt=""></li>
+                    <li>HP 아이템 - </li>
                 </ul>
             </li>
             <li>
@@ -102,11 +105,10 @@
     </details>
 
 > - 레벨업 시 증강 선택으로 성장
-
->   ![레벨업 시 증강 선택](https://github.com/user-attachments/assets/8f50586a-d84f-4b92-86e5-db6eb7b06d3c)
 > - 증강 종류
 >
-> - 
+> - ![엘리트 몹 잡은 뒤 나온 자석 아이템]()
+
 
 > - 보스 사냥
 >   ![보스사냥](https://github.com/user-attachments/assets/aa55722b-061e-46e1-9cbf-2729dbafd17a)
