@@ -80,12 +80,12 @@
                     </li>
                     <li>엘리트 몬스터 드랍 아이템 - 자석 아이템, hp회복 아이템</li>
                     <li>자석 아이템 - <img src="https://github.com/user-attachments/assets/8fb863b9-daf5-408c-8144-895d921deb43" alt=""></li>
-                    <li>HP 아이템 - </li>
+                    <li>HP 아이템 - <img src="https://github.com/user-attachments/assets/556f1f0a-0f44-4576-91eb-0bba982d507a" alt=""></li>
                 </ul>
             </li>
             <li>
                 보스 몬스터 - <br>
-                <img src="https://github.com/user-attachments/assets/556f1f0a-0f44-4576-91eb-0bba982d507a" alt="">
+                <img src="https://github.com/user-attachments/assets/b1214883-beb9-4074-8deb-766a644c28e0" alt="">
                 <ul>
                     <li>보스 패턴
                         <ul>
@@ -103,6 +103,7 @@
             </li>
         </ul>
     </details>
+
 
 > - 레벨업 시 증강 선택으로 성장
 > - 증강 종류
