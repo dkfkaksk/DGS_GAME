@@ -40,8 +40,9 @@
 > - 몬스터 종류
 >
 > - -
+<detail>
+<summary>> - 레벨업 시 증강 선택으로 성장 <summary>
 
-> - 레벨업 시 증강 선택으로 성장
 >   ![레벨업 시 증강 선택](https://github.com/user-attachments/assets/8f50586a-d84f-4b92-86e5-db6eb7b06d3c)
 > - 증강 종류
 >
