@@ -81,14 +81,14 @@
                     <li>엘리트 몬스터 드랍 아이템 - 자석 아이템, hp회복 아이템
                         <ul>
                             <li>자석 아이템 - <img src="https://github.com/user-attachments/assets/8fb863b9-daf5-408c-8144-895d921deb43" alt=""></li><br>
-                            <li>HP 아이템 - <img src="" alt=""></li><br><br>
+                            <li>HP 아이템 - <img src="https://github.com/user-attachments/assets/b1214883-beb9-4074-8deb-766a644c28e0" alt=""></li><br><br>
                         </ul>
                     </li>
                 </ul>
             </li>
             <li>
                 보스 몬스터 - <br>
-                <img src="https://github.com/user-attachments/assets/b1214883-beb9-4074-8deb-766a644c28e0" alt="">
+                <img src="https://github.com/user-attachments/assets/556f1f0a-0f44-4576-91eb-0bba982d507a" alt="">
                 <ul>
                     <li>보스 패턴
                         <ul>
