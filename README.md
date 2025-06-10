@@ -47,7 +47,7 @@
 > - 증강 종류
 >
 > - 
-
+</detail>
 > - 보스 사냥
 >   ![보스사냥](https://github.com/user-attachments/assets/aa55722b-061e-46e1-9cbf-2729dbafd17a)
 >   ![클리어 화면](https://github.com/user-attachments/assets/96b6174c-f0c0-4c02-a7b9-83ea7e972a79)
