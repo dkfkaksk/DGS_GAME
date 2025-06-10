@@ -42,14 +42,18 @@
         <ul>
             <li>근접 몬스터
                 <ul>
-                    <li>일반 근접 몬스터 - </li>
-                    <li><img src="https://github.com/user-attachments/assets/d0502ba4-327d-4de4-b279-1debdb8a6a8a" alt=""></li>
-                    <li>독 몬스터 - </li>
-                    <li><img src="https://github.com/user-attachments/assets/0da05959-1081-4223-9aff-ca8ee5b78251" alt=""></li>
-                    <li>자폭 몬스터 - </li>
-                    <li><img src="https://github.com/user-attachments/assets/5a43d354-9cf6-49bf-b3ab-aca1c8753228" alt=""></li>
-                    <li>분열 몬스터 - </li>
-                    <li><img src="https://github.com/user-attachments/assets/09eeca35-033c-4757-8b46-8a243d417c4e" alt=""></li><br>
+                    <li>일반 근접 몬스터 - 
+                    <img src="https://github.com/user-attachments/assets/d0502ba4-327d-4de4-b279-1debdb8a6a8a" alt=""></li>
+                    <li></li>
+                    <li>독 몬스터 - 
+                    <img src="https://github.com/user-attachments/assets/0da05959-1081-4223-9aff-ca8ee5b78251" alt=""></li>
+                    <li></li>
+                    <li>자폭 몬스터 - 
+                    <img src="https://github.com/user-attachments/assets/5a43d354-9cf6-49bf-b3ab-aca1c8753228" alt=""></li>
+                    <li></li>
+                    <li>분열 몬스터 - 
+                    <img src="https://github.com/user-attachments/assets/09eeca35-033c-4757-8b46-8a243d417c4e" alt=""></li>
+                    <li></li><br>
                 </ul>
             </li>
             <li>원거리 몬스터
