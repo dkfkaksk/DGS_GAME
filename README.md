@@ -111,7 +111,8 @@
 <details>
         <summary>:large_blue_diamond:<strong>증강 종류 (Monster Types)</strong></summary>
         <ul>
-            <li>스톰 - 
+            <li>스톰 - <br>
+                <img src="https://github.com/user-attachments/assets/d0502ba4-327d-4de4-b279-1debdb8a6a8a" alt="">
             </li>
             <li>낙뢰 - <br>
                 <img src="https://github.com/user-attachments/assets/d0502ba4-327d-4de4-b279-1debdb8a6a8a" alt="">
@@ -125,8 +126,8 @@
             <li>빛의 화살 - <br>
                 <img src="https://github.com/user-attachments/assets/09eeca35-033c-4757-8b46-8a243d417c4e" alt="">
             </li><br>
-            </li>
-            <li>수호검 - 
+            <li>수호검 - <br>
+                <img src="https://github.com/user-attachments/assets/d0502ba4-327d-4de4-b279-1debdb8a6a8a" alt="">
             <li>암흑 구체 - <br>
                 <img src="https://github.com/user-attachments/assets/1bbf3924-79f5-4f56-9778-445179d3699d" alt="">
             </li>
