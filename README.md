@@ -167,6 +167,8 @@
                    <tr>
                      <th>스텟 이름</th>
                      <th>이미지</th>
+                    <th>스텟 이름</th>
+                     <th>이미지</th>
                    </tr>
                  </thead>
                  <tbody>
