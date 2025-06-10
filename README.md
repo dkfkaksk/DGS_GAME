@@ -167,7 +167,7 @@
                    <tr>
                      <th>스텟 이름</th>
                      <th>이미지</th>
-                    <th>스텟 이름</th>
+                     <th>스텟 이름</th>
                      <th>이미지</th>
                    </tr>
                  </thead>
@@ -175,10 +175,10 @@
                    <tr>
                      <td>체력재생 증가</td>
                      <td><img src="https://github.com/user-attachments/assets/c2e555f6-60aa-4fa5-af10-b2f8cf56ed12" width="64"/></td>
-                   </tr>
-                   <tr>
                      <td>최대체력 증가</td>
                      <td><img src="https://github.com/user-attachments/assets/01a61952-3e25-4054-aa8a-3f2f062d6e4c" width="64"/></td>
+                   </tr>
+                   <tr>
                    </tr>
                   <tr>
                      <td>치명타 증가</td>
