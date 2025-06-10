@@ -1,4 +1,4 @@
-[ # DGS - DraGon Slayer
+![화염정령](https://github.com/user-attachments/assets/6e6090ad-14a5-4073-88a2-9cebb8265435)[ # DGS - DraGon Slayer
 - 유니티 버전 - 2022.3.60f (URP)
 - 플레이 기기 - PC
 
@@ -112,55 +112,55 @@
         <summary>:large_blue_diamond:<strong>증강 종류 (Monster Types)</strong></summary>
         <ul>
             <li>스톰 - <br>
-                <img src="https://github.com/user-attachments/assets/d0502ba4-327d-4de4-b279-1debdb8a6a8a" alt="">
+                <img src="https://github.com/user-attachments/assets/22be9130-59d0-41eb-ab74-5331b2940d3e" alt="">
             </li>
             <li>낙뢰 - <br>
-                <img src="https://github.com/user-attachments/assets/d0502ba4-327d-4de4-b279-1debdb8a6a8a" alt="">
+                <img src="https://github.com/user-attachments/assets/40e08e46-6fe7-467c-8e79-97f255bc5a40" alt="">
             </li>
             <li>매직 미사일 - <br>
-                <img src="https://github.com/user-attachments/assets/0da05959-1081-4223-9aff-ca8ee5b78251" alt="">
+                <img src="https://github.com/user-attachments/assets/9cab85fd-50ac-4409-a590-e23dd03abc11" alt="">
             </li>
             <li>부메랑 - <br>
-                <img src="https://github.com/user-attachments/assets/5a43d354-9cf6-49bf-b3ab-aca1c8753228" alt="">
+                <img src="https://github.com/user-attachments/assets/c3d6260c-1fd7-462b-92f7-53a14423e81a" alt="">
             </li>
             <li>빛의 화살 - <br>
-                <img src="https://github.com/user-attachments/assets/09eeca35-033c-4757-8b46-8a243d417c4e" alt="">
+                <img src="https://github.com/user-attachments/assets/a748b6af-b88d-4b1c-ae72-6cf1cd18d809" alt="">
             </li><br>
             <li>수호검 - <br>
-                <img src="https://github.com/user-attachments/assets/d0502ba4-327d-4de4-b279-1debdb8a6a8a" alt="">
+                <img src="https://github.com/user-attachments/assets/517be042-95a2-4a00-a0b5-87c01a2a3819" alt="">
             <li>암흑 구체 - <br>
-                <img src="https://github.com/user-attachments/assets/1bbf3924-79f5-4f56-9778-445179d3699d" alt="">
+                <img src="https://github.com/user-attachments/assets/f26c860b-3508-4375-afb5-3e7cc59652e5" alt="">
             </li>
             <li>얼음 미사일 - <br>
-                <img src="https://github.com/user-attachments/assets/a02a4144-b8f0-417d-9e2a-1fa44bc164ea" alt="">
+                <img src="https://github.com/user-attachments/assets/cfabf23c-4491-4138-ba40-4c2a330c6fc4" alt="">
             </li><br>
             <li>얼음 방패 - <br>
-                <img src="https://github.com/user-attachments/assets/d0502ba4-327d-4de4-b279-1debdb8a6a8a" alt="">
+                <img src="https://github.com/user-attachments/assets/788c53be-01ad-44b6-96a5-99d79de7ef59" alt="">
             </li>
             <li>얼음 역장 - <br>
-                <img src="https://github.com/user-attachments/assets/d0502ba4-327d-4de4-b279-1debdb8a6a8a" alt="">
+                <img src="https://github.com/user-attachments/assets/005ce0c6-5cef-4a68-8ef8-b8e5a14a748c" alt="">
             </li>
             <li>절멸자 - <br>
-                <img src="https://github.com/user-attachments/assets/32322523-dce3-40d2-a135-ae507fbb96a5" alt="">
+                <img src="https://github.com/user-attachments/assets/132356a4-62d6-4330-97cc-b421db30fdcf" alt="">
             </li>
             <li>튕기는 수리검 - <br>
-                <img src="https://github.com/user-attachments/assets/024b739a-52cd-40b3-8e8b-058b767b58cd" alt="">
+                <img src="https://github.com/user-attachments/assets/e1c8e305-751b-4ed9-8dde-816f635e5c14" alt="">
             </li>
             <li>화염 정령 - <br>
                 <img src="https://github.com/user-attachments/assets/d0502ba4-327d-4de4-b279-1debdb8a6a8a" alt="">
             </li>
             <li>전사 기본 무기 - <br>
-                <img src="https://github.com/user-attachments/assets/98ffcbf4-e45d-47f7-a114-28302431fa39" alt="">
+                <img src="https://github.com/user-attachments/assets/4417734d-19e3-42a4-8f88-c24a1a1b0f0a" alt="">
             </li>
             <li>마법사 기본 무기 - <br>
-                <img src="https://github.com/user-attachments/assets/b9d429db-35f4-49a9-88ae-8142d8e222a1" alt="">
+                <img src="https://github.com/user-attachments/assets/4aaa2eb1-7e01-44f9-9636-dcc9fcea6fdc" alt="">
             </li><br>
             <li>
                 각종 스텟들 - <br>
                 <img src="https://github.com/user-attachments/assets/556f1f0a-0f44-4576-91eb-0bba982d507a" alt="">
             </li>
-            <li>|<img src="https://github.com/user-attachments/assets/556f1f0a-0f44-4576-91eb-0bba982d507a" alt="">|<img src="https://github.com/user-attachments/assets/556f1f0a-0f44-4576-91eb-0bba982d507a" alt="">|<img src="https://github.com/user-attachments/assets/556f1f0a-0f44-4576-91eb-0bba982d507a" alt="">|
-                |:--:|:--:|:--:|
+            <li>
+                ㅁㄴㅇ
             </li>
         </ul>
     </details>
