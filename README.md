@@ -200,7 +200,7 @@
                      <td>공격속도 증가</td>
                      <td><img src="https://github.com/user-attachments/assets/f99116d8-4d86-4fa1-a5ee-5f4b310a34b7" width="64"/></td>
                      <td>방어력 증가</td>
-                     <td><img src="https://github.com/user-attachments/assets/01b7c658-8866-4bc2-a2be-e22526066ce4" width="64"/></td>
+                     <td><img src="https://github.com/user-attachments/assets/8c666789-276d-4834-b427-76bacac5343e" width="64"/></td>
                    </tr>
                    <tr>
                    </tr>
@@ -215,7 +215,6 @@
             </li>
         </ul>
     </details>
-
 
 
 > - 보스 사냥
