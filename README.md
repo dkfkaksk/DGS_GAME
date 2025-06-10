@@ -107,13 +107,70 @@
         </ul>
     </details>
 
-
-
-
-
-
 > - 레벨업 시 증강 선택으로 성장
-> - 증강 종류
+<details>
+        <summary>:large_blue_diamond:<strong>증강 종류 (Monster Types)</strong></summary>
+        <ul>
+            <li>근접 몬스터
+            <li>일반 근접 몬스터 - 기본적인 근거리 몬스터의 형태로 플레이어에게 닿았을 때 데미지를 줌<br>
+                <img src="https://github.com/user-attachments/assets/d0502ba4-327d-4de4-b279-1debdb8a6a8a" alt="">
+            </li>
+            <li>독 몬스터 - 플레이어에게 닿았을 때 데미지 그리고 몬스터 사망 시 그 자리에 독 장판이 생기며 독 장판에 있는 플레이어에게 데미지를 줌<br>
+                <img src="https://github.com/user-attachments/assets/0da05959-1081-4223-9aff-ca8ee5b78251" alt="">
+            </li>
+            <li>자폭 몬스터 - 해당 몬스터 사망시 주변에 있는 플레이어에게 데미지를 줌<br>
+                <img src="https://github.com/user-attachments/assets/5a43d354-9cf6-49bf-b3ab-aca1c8753228" alt="">
+            </li>
+            <li>분열 몬스터 - 해당 몬스터가 사망 시 작은 몬스터로 분열하게 됨<br>
+                <img src="https://github.com/user-attachments/assets/09eeca35-033c-4757-8b46-8a243d417c4e" alt="">
+            </li><br>
+            </li>
+            <li>원거리 몬스터
+            <li>기본 투사체 발사하는 몬스터 - 원거리에서 플레이어에게 투사체를 날려 데미지를 줌<br>
+                <img src="https://github.com/user-attachments/assets/1bbf3924-79f5-4f56-9778-445179d3699d" alt="">
+            </li>
+            <li>플레이어의 위치에 독 장판 뿌리는 몬스터 - 원거리에서 플레이어가 있는 지점으로 독 장판을 생성시키며 독 장판에 있는 플레이어에게 데미지를 줌<br>
+                <img src="https://github.com/user-attachments/assets/a02a4144-b8f0-417d-9e2a-1fa44bc164ea" alt="">
+            </li><br>
+            </li>
+            <li>엘리트 몬스터
+            <li>근거리 엘리트 몬스터
+            <li>러쉬 몬스터 - 생성 시 속도는 느리지만 점점 빨라지며 플레이어에게 충돌 시 플레이어를 높게 띄우는 에어본을 발생시킴<br>
+                <img src="https://github.com/user-attachments/assets/32322523-dce3-40d2-a135-ae507fbb96a5" alt="">
+            </li>
+            <li>대쉬 몬스터 - 플레이어가 사정거리에 들어오면 잠시 대기 후 플레이어를 향해 빠르게 돌진<br>
+                <img src="https://github.com/user-attachments/assets/024b739a-52cd-40b3-8e8b-058b767b58cd" alt="">
+            </li>
+            </li>
+            <li>원거리 엘리트 몬스터
+            <li>3갈래 투사체 발사 몬스터 - 플레이어의 방향을 기준으로 3갈래로 나가는 투사체를 발사 함<br>
+                <img src="https://github.com/user-attachments/assets/98ffcbf4-e45d-47f7-a114-28302431fa39" alt="">
+            </li>
+            <li>슬로우 투사체 발사 몬스터 - 플레이어를 향해 슬로우가 걸리게 하는 wave투사체를 발사 함<br>
+                <img src="https://github.com/user-attachments/assets/b9d429db-35f4-49a9-88ae-8142d8e222a1" alt="">
+            </li><br>
+            </li>
+            </li>
+            <li>
+                보스 몬스터 - <br>
+                <img src="https://github.com/user-attachments/assets/556f1f0a-0f44-4576-91eb-0bba982d507a" alt="">
+            <li>보스 패턴
+            <li>1. 브레스 - 보스 방에 들어갈 시 가장 먼저 나오는 패턴으로 브레스의 범위에 있는 플레이어는 지속적으로 데미지를 받음 <br>
+                <img src="" alt="">
+            </li>
+            <li>2. 토네이도 - 어느정도의 시전 시간이 지나면 플레이어를 향해 이동하며 지속적으로 데미지를 주는 토네이도 오브젝트를 생성<br>
+                <img src="" alt="">
+            </li>
+            <li>3. 돌진 및 브레스 - 하늘로 날아오르는 애니메이션 이후 보스방의 대각선의 범위를 빠르게 이동하며 대미지를 줌 <br>
+                <img src="" alt="">
+            </li>
+            <li>4. 운석 - 보스방에 들어가고 패턴이 시작되면 지속적으로 정해놓은 시간마다 운석이 떨어지며 운석에 맞으면 데미지를 줌 <br>
+                <img src="" alt="">
+            </li>
+            </li>
+            </li>
+        </ul>
+    </details>
 
 
 > - 보스 사냥
