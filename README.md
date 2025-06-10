@@ -44,42 +44,38 @@
                 <ul>
                     <li>일반 근접 몬스터 - <br>
                     <img src="https://github.com/user-attachments/assets/d0502ba4-327d-4de4-b279-1debdb8a6a8a" alt=""></li>
-                    <li></li>
                     <li>독 몬스터 - <br>
                     <img src="https://github.com/user-attachments/assets/0da05959-1081-4223-9aff-ca8ee5b78251" alt=""></li>
-                    <li></li>
                     <li>자폭 몬스터 - <br>
                     <img src="https://github.com/user-attachments/assets/5a43d354-9cf6-49bf-b3ab-aca1c8753228" alt=""></li>
-                    <li></li>
                     <li>분열 몬스터 - <br>
-                    <img src="https://github.com/user-attachments/assets/09eeca35-033c-4757-8b46-8a243d417c4e" alt=""></li>
-                    <li></li><br>
+                    <img src="https://github.com/user-attachments/assets/09eeca35-033c-4757-8b46-8a243d417c4e" alt=""></li><br>
                 </ul>
             </li>
             <li>원거리 몬스터
                 <ul>
-                    <li>기본 투사체 발사하는 몬스터 - </li>
-                    <li><img src="https://github.com/user-attachments/assets/1bbf3924-79f5-4f56-9778-445179d3699d" alt=""></li>
-                    <li>플레이어의 위치에 독 장판 뿌리는 몬스터 - </li>
-                    <li><img src="https://github.com/user-attachments/assets/a02a4144-b8f0-417d-9e2a-1fa44bc164ea" alt=""></li><br>
+                    <li>기본 투사체 발사하는 몬스터 - <br>
+                    <img src="https://github.com/user-attachments/assets/1bbf3924-79f5-4f56-9778-445179d3699d" alt=""></li>
+                    <li>플레이어의 위치에 독 장판 뿌리는 몬스터 - <br>
+                    <img src="https://github.com/user-attachments/assets/a02a4144-b8f0-417d-9e2a-1fa44bc164ea" alt=""></li><br>
                 </ul>
             </li>
             <li>엘리트 몬스터
                 <ul>
                     <li>근거리 엘리트 몬스터
                         <ul>
-                            <li>러쉬 몬스터 - </li>
-                            <li><img src="https://github.com/user-attachments/assets/32322523-dce3-40d2-a135-ae507fbb96a5" alt=""></li>
-                            <li>대쉬 몬스터 - </li>
-                            <li><img src="https://github.com/user-attachments/assets/024b739a-52cd-40b3-8e8b-058b767b58cd" alt=""></li>
+                            <li>러쉬 몬스터 - <br>
+                            <img src="https://github.com/user-attachments/assets/32322523-dce3-40d2-a135-ae507fbb96a5" alt=""></li>
+                            <li>대쉬 몬스터 - <br>
+                            <img src="https://github.com/user-attachments/assets/024b739a-52cd-40b3-8e8b-058b767b58cd" alt=""></li>
                         </ul>
                     </li>
                     <li>원거리 엘리트 몬스터
                         <ul>
-                            <li>3갈래 투사체 발사 몬스터 - </li>
-                            <li><img src="https://github.com/user-attachments/assets/98ffcbf4-e45d-47f7-a114-28302431fa39" alt=""></li>
-                            <li>슬로우 투사체 발사 몬스터 - </li>
-                            <li><img src="https://github.com/user-attachments/assets/b9d429db-35f4-49a9-88ae-8142d8e222a1" alt=""></li><br>
+                            <li>3갈래 투사체 발사 몬스터 - 
+                            <img src="https://github.com/user-attachments/assets/98ffcbf4-e45d-47f7-a114-28302431fa39" alt=""></li>
+                            <li>슬로우 투사체 발사 몬스터 - 
+                            <img src="https://github.com/user-attachments/assets/b9d429db-35f4-49a9-88ae-8142d8e222a1" alt=""></li><br>
                         </ul>
                     </li>
                 </ul>
