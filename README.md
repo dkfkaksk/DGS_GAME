@@ -25,7 +25,7 @@
 
 ## 게임 진행
 > - 타이틀 화면
- - ![DGS 타이틀](https://github.com/user-attachments/assets/e8040b0a-5292-4957-b017-9d503169b003)
+> - ![DGS 타이틀](https://github.com/user-attachments/assets/e8040b0a-5292-4957-b017-9d503169b003)
 
 > - 직업 선택
 > - 게임 시작
