@@ -149,6 +149,9 @@
             <li>화염 정령 - <br>
                 <img src="https://github.com/user-attachments/assets/c59e4046-fa53-43bb-a771-c3a9b041f009" alt="">
             </li>
+            <li>영혼 연결 - <br>
+                <img src="https://github.com/user-attachments/assets/64e94bc8-ebd5-4893-9c89-c498e689e51d" alt="">
+            </li>
             <li>전사 기본 무기 - <br>
                 <img src="https://github.com/user-attachments/assets/4417734d-19e3-42a4-8f88-c24a1a1b0f0a" alt="">
             </li>
@@ -164,6 +167,7 @@
             </li>
         </ul>
     </details>
+
 
 
 > - 보스 사냥
