@@ -45,7 +45,7 @@
 >   ![클리어 화면](https://github.com/user-attachments/assets/96b6174c-f0c0-4c02-a7b9-83ea7e972a79)
 
 > - 플레이 후 모인 골드로 능력치 업그레이드
->   ![체력 업그레이드 5회](https://github.com/user-attachments/assets/ff7b89cc-961e-4bfc-9b9f-a8b016311d74)
+>   ![능력치 업그레이드(체력)](https://github.com/user-attachments/assets/72eafcf0-8a97-43ce-aa9e-d928351dbaad)
 >   ![체력 업그레이드 5회](https://github.com/user-attachments/assets/01b7c658-8866-4bc2-a2be-e22526066ce4)
 
 
