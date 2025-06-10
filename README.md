@@ -134,9 +134,11 @@
             <li>얼음 미사일 - <br>
                 <img src="https://github.com/user-attachments/assets/a02a4144-b8f0-417d-9e2a-1fa44bc164ea" alt="">
             </li><br>
-            <li>얼음 방패 - 
+            <li>얼음 방패 - <br>
+                <img src="https://github.com/user-attachments/assets/d0502ba4-327d-4de4-b279-1debdb8a6a8a" alt="">
             </li>
-            <li>얼음 역장 - 
+            <li>얼음 역장 - <br>
+                <img src="https://github.com/user-attachments/assets/d0502ba4-327d-4de4-b279-1debdb8a6a8a" alt="">
             </li>
             <li>절멸자 - <br>
                 <img src="https://github.com/user-attachments/assets/32322523-dce3-40d2-a135-ae507fbb96a5" alt="">
@@ -144,7 +146,8 @@
             <li>튕기는 수리검 - <br>
                 <img src="https://github.com/user-attachments/assets/024b739a-52cd-40b3-8e8b-058b767b58cd" alt="">
             </li>
-            <li>화염 정령 - 
+            <li>화염 정령 - <br>
+                <img src="https://github.com/user-attachments/assets/d0502ba4-327d-4de4-b279-1debdb8a6a8a" alt="">
             </li>
             <li>전사 기본 무기 - <br>
                 <img src="https://github.com/user-attachments/assets/98ffcbf4-e45d-47f7-a114-28302431fa39" alt="">
@@ -153,22 +156,11 @@
                 <img src="https://github.com/user-attachments/assets/b9d429db-35f4-49a9-88ae-8142d8e222a1" alt="">
             </li><br>
             <li>
-                각 종 스텟들 - <br>
+                각종 스텟들 - <br>
                 <img src="https://github.com/user-attachments/assets/556f1f0a-0f44-4576-91eb-0bba982d507a" alt="">
             </li>
-            <li>보스 패턴
-            </li>
-            <li>1. 브레스 - 보스 방에 들어갈 시 가장 먼저 나오는 패턴으로 브레스의 범위에 있는 플레이어는 지속적으로 데미지를 받음 <br>
-                <img src="" alt="">
-            </li>
-            <li>2. 토네이도 - 어느정도의 시전 시간이 지나면 플레이어를 향해 이동하며 지속적으로 데미지를 주는 토네이도 오브젝트를 생성<br>
-                <img src="" alt="">
-            </li>
-            <li>3. 돌진 및 브레스 - 하늘로 날아오르는 애니메이션 이후 보스방의 대각선의 범위를 빠르게 이동하며 대미지를 줌 <br>
-                <img src="" alt="">
-            </li>
-            <li>4. 운석 - 보스방에 들어가고 패턴이 시작되면 지속적으로 정해놓은 시간마다 운석이 떨어지며 운석에 맞으면 데미지를 줌 <br>
-                <img src="" alt="">
+            <li>|<img src="https://github.com/user-attachments/assets/556f1f0a-0f44-4576-91eb-0bba982d507a" alt="">|<img src="https://github.com/user-attachments/assets/556f1f0a-0f44-4576-91eb-0bba982d507a" alt="">|<img src="https://github.com/user-attachments/assets/556f1f0a-0f44-4576-91eb-0bba982d507a" alt="">|
+                |:--:|:--:|:--:|
             </li>
         </ul>
     </details>
