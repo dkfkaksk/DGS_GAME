@@ -64,17 +64,17 @@
                 <ul>
                     <li>근거리 엘리트 몬스터
                         <ul>
-                            <li>러쉬 몬스터 - <br>
+                            <li>러쉬 몬스터 - 생성 시 속도는 느리지만 점점 빨라지며 플레이어에게 충돌 시 플레이어를 높게 띄우는 에어본을 발생시킴<br>
                             <img src="https://github.com/user-attachments/assets/32322523-dce3-40d2-a135-ae507fbb96a5" alt=""></li>
-                            <li>대쉬 몬스터 - <br>
+                            <li>대쉬 몬스터 - 플레이어가 사정거리에 들어오면 잠시 대기 후 플레이어를 향해 빠르게 돌진<br>
                             <img src="https://github.com/user-attachments/assets/024b739a-52cd-40b3-8e8b-058b767b58cd" alt=""></li>
                         </ul>
                     </li>
                     <li>원거리 엘리트 몬스터
                         <ul>
-                            <li>3갈래 투사체 발사 몬스터 - <br>
+                            <li>3갈래 투사체 발사 몬스터 - 플레이어의 방향을 기준으로 3갈래로 나가는 투사체를 발사 함<br>
                             <img src="https://github.com/user-attachments/assets/98ffcbf4-e45d-47f7-a114-28302431fa39" alt=""></li>
-                            <li>슬로우 투사체 발사 몬스터 - <br>
+                            <li>슬로우 투사체 발사 몬스터 - 플레이어를 향해 슬로우가 걸리게 하는 wave투사체를 발사 함<br>
                             <img src="https://github.com/user-attachments/assets/b9d429db-35f4-49a9-88ae-8142d8e222a1" alt=""></li><br>
                         </ul>
                     </li>
