@@ -28,16 +28,21 @@
 >   ![DGS 타이틀](https://github.com/user-attachments/assets/e8040b0a-5292-4957-b017-9d503169b003)
 
 > - 직업 선택
->   ![직업 선택](https://github.com/user-attachments/assets/8c9ffb80-72cf-47d0-b260-0d7b6713bade)
+>   ![직업 선택](https://github.com/user-attachments/assets/fdd5c3c9-0c34-4785-aff2-9e18ce4dd2f7)
+
 
 > - 게임 시작
-> - 
+>   ![게임시작 시 화면](https://github.com/user-attachments/assets/d34ee5a3-9b28-4cc0-8a26-63c1bee4cc9e)
+
 > - 스폰되는 몬스터 사냥(경험치,골드 획득)
-> - 
+>   ![몬스터 사냥 및 경험치 골드 드랍](https://github.com/user-attachments/assets/451a254c-55c0-4445-95f3-35756c53c703)
+
 > - 레벨업 시 증강 선택으로 성장
-> - 
+>   ![레벨업 시 증강 선택](https://github.com/user-attachments/assets/8f50586a-d84f-4b92-86e5-db6eb7b06d3c)
+
 > - 보스 사냥
-> - 
+>   ![보스사냥](https://github.com/user-attachments/assets/aa55722b-061e-46e1-9cbf-2729dbafd17a)
+>   ![클리어 화면](https://github.com/user-attachments/assets/96b6174c-f0c0-4c02-a7b9-83ea7e972a79)
+
 > - 플레이 후 모인 골드로 능력치 업그레이드
 > - 
-> - 게임시작
