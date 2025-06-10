@@ -178,45 +178,35 @@
                      <td>최대체력 증가</td>
                      <td><img src="https://github.com/user-attachments/assets/01a61952-3e25-4054-aa8a-3f2f062d6e4c" width="64"/></td>
                    </tr>
-                   <tr>
-                   </tr>
                   <tr>
                      <td>치명타 증가</td>
                      <td><img src="https://github.com/user-attachments/assets/47ab6121-990f-4877-8189-f69a59d92fdc" width="64"/></td>
-                   </tr>
-                   <tr>
                      <td>투사체 개수 증가</td>
                      <td><img src="https://github.com/user-attachments/assets/bdaf1051-0771-4438-8917-c4d913e4d90e" width="64"/></td>
                    </tr>
                   <tr>
                      <td>획득범위 증가</td>
                      <td><img src="https://github.com/user-attachments/assets/b8ab3353-8afc-44bc-ac24-627411affa2b" width="64"/></td>
-                   </tr>
-                   <tr>
                      <td>경험치 증가</td>
                      <td><img src="https://github.com/user-attachments/assets/cedf7b2b-21ca-4c95-9ee0-ca0dccdfdc5d" width="64"/></td>
                    </tr>
                   <tr>
                      <td>공격력 증가</td>
                      <td><img src="https://github.com/user-attachments/assets/0972674a-864b-4ec8-bf89-4b4e6df0ccde" width="64"/></td>
-                   </tr>
-                   <tr>
                      <td>공격범위 증가</td>
                      <td><img src="https://github.com/user-attachments/assets/534766b4-88e3-49d7-b6d1-dcdfed7b034c" width="64"/></td>
                    </tr>
                   <tr>
                      <td>공격속도 증가</td>
                      <td><img src="https://github.com/user-attachments/assets/f99116d8-4d86-4fa1-a5ee-5f4b310a34b7" width="64"/></td>
-                   </tr>
-                   <tr>
                      <td>방어력 증가</td>
                      <td><img src="https://github.com/user-attachments/assets/01b7c658-8866-4bc2-a2be-e22526066ce4" width="64"/></td>
+                   </tr>
+                   <tr>
                    </tr>
                   <tr>
                      <td>지속시간 증가</td>
                      <td><img src="https://github.com/user-attachments/assets/f58db1e9-0aad-4879-b024-f79eba0cdde2" width="64"/></td>
-                   </tr>
-                   <tr>
                      <td>이동속도 증가</td>
                      <td><img src="https://github.com/user-attachments/assets/f0171ece-aee0-4fa7-9147-34280c727e4f" width="64"/></td>
                    </tr>
@@ -225,18 +215,6 @@
             </li>
         </ul>
     </details>
-![방어력 카드]()
-![공속 카드]()
-![공격범위 카드]()
-![공격력 카드]()
-![경험치 카드]()
-![획득범위 카드]()
-![투사체 개수 가큳]()
-![치명타 카드]()
-![최대체력 카드]()
-![체력 재생 카드]()
-![지속시간 카드]()
-![이속 카드]()
 
 
 
