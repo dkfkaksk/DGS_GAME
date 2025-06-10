@@ -1,4 +1,4 @@
- # DGS - DraGon Slayer
+[ # DGS - DraGon Slayer
 - 유니티 버전 - 2022.3.60f (URP)
 - 플레이 기기 - PC
 
@@ -72,18 +72,19 @@
                     </li>
                     <li>원거리 엘리트 몬스터
                         <ul>
-                            <li>3갈래 투사체 발사 몬스터 - 
+                            <li>3갈래 투사체 발사 몬스터 - <br>
                             <img src="https://github.com/user-attachments/assets/98ffcbf4-e45d-47f7-a114-28302431fa39" alt=""></li>
-                            <li>슬로우 투사체 발사 몬스터 - 
+                            <li>슬로우 투사체 발사 몬스터 - <br>
                             <img src="https://github.com/user-attachments/assets/b9d429db-35f4-49a9-88ae-8142d8e222a1" alt=""></li><br>
                         </ul>
                     </li>
                 </ul>
             </li>
             <li>
-                보스 몬스터
+                보스 몬스터 - <br>
+                <img src="https://github.com/user-attachments/assets/556f1f0a-0f44-4576-91eb-0bba982d507a" alt="">
                 <ul>
-                    <li><img src="https://github.com/user-attachments/assets/556f1f0a-0f44-4576-91eb-0bba982d507a" alt=""></li>
+                    <li></li>
                     <li>보스 패턴
                         <ul>
                             <li>1. 브레스 - </li>
@@ -117,3 +118,4 @@
 >   ![체력 업그레이드 5회](https://github.com/user-attachments/assets/01b7c658-8866-4bc2-a2be-e22526066ce4)
 
 
+](url)
