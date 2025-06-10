@@ -168,8 +168,8 @@
 
 > - 보스 사냥
 >   ![보스사냥](https://github.com/user-attachments/assets/aa55722b-061e-46e1-9cbf-2729dbafd17a)
+> - 보스 클리어 시 게임 종료<br>
 >   ![클리어 화면](https://github.com/user-attachments/assets/96b6174c-f0c0-4c02-a7b9-83ea7e972a79)
-> - 
 
 > - 플레이 후 모인 골드로 능력치 업그레이드(체력 5회 업그레이드로 체력이 1.5배로 늘어남)
 >   ![능력치 업그레이드(체력)](https://github.com/user-attachments/assets/72eafcf0-8a97-43ce-aa9e-d928351dbaad)
