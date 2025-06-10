@@ -147,7 +147,7 @@
                 <img src="https://github.com/user-attachments/assets/e1c8e305-751b-4ed9-8dde-816f635e5c14" alt="">
             </li>
             <li>화염 정령 - <br>
-                <img src="https://github.com/user-attachments/assets/d0502ba4-327d-4de4-b279-1debdb8a6a8a" alt="">
+                <img src="https://github.com/user-attachments/assets/c59e4046-fa53-43bb-a771-c3a9b041f009" alt="">
             </li>
             <li>전사 기본 무기 - <br>
                 <img src="https://github.com/user-attachments/assets/4417734d-19e3-42a4-8f88-c24a1a1b0f0a" alt="">
