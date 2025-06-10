@@ -38,7 +38,7 @@
 > - 스폰되는 몬스터 사냥(경험치,골드 획득)
 >   ![몬스터 사냥 및 경험치 골드 드랍](https://github.com/user-attachments/assets/451a254c-55c0-4445-95f3-35756c53c703)
 <details>
-        <summary>:large_blue_diamond:<strong>몬스터 종류</strong></summary>
+        <summary>:large_blue_diamond:<strong>몬스터 종류</strong></summary> <- 클릭
         <ul>
             <li>근접 몬스터
                 <ul>
