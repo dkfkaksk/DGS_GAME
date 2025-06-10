@@ -93,7 +93,7 @@
             <li>
                 보스 몬스터
                 <ul>
-                    <li><img src="" alt=""></li>
+                    <li><img src="https://github.com/user-attachments/assets/fa92c69f-f8f7-438b-8719-30c81c3a7f8c" alt=""></li>
                     <li>보스 패턴
                         <ul>
                             <li>1. 브레스</li>
