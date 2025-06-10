@@ -111,50 +111,52 @@
 <details>
         <summary>:large_blue_diamond:<strong>증강 종류 (Monster Types)</strong></summary>
         <ul>
-            <li>근접 몬스터
-            <li>일반 근접 몬스터 - 기본적인 근거리 몬스터의 형태로 플레이어에게 닿았을 때 데미지를 줌<br>
+            <li>스톰 - 
+            </li>
+            <li>낙뢰 - <br>
                 <img src="https://github.com/user-attachments/assets/d0502ba4-327d-4de4-b279-1debdb8a6a8a" alt="">
             </li>
-            <li>독 몬스터 - 플레이어에게 닿았을 때 데미지 그리고 몬스터 사망 시 그 자리에 독 장판이 생기며 독 장판에 있는 플레이어에게 데미지를 줌<br>
+            <li>매직 미사일 - <br>
                 <img src="https://github.com/user-attachments/assets/0da05959-1081-4223-9aff-ca8ee5b78251" alt="">
             </li>
-            <li>자폭 몬스터 - 해당 몬스터 사망시 주변에 있는 플레이어에게 데미지를 줌<br>
+            <li>부메랑 - <br>
                 <img src="https://github.com/user-attachments/assets/5a43d354-9cf6-49bf-b3ab-aca1c8753228" alt="">
             </li>
-            <li>분열 몬스터 - 해당 몬스터가 사망 시 작은 몬스터로 분열하게 됨<br>
+            <li>빛의 화살 - <br>
                 <img src="https://github.com/user-attachments/assets/09eeca35-033c-4757-8b46-8a243d417c4e" alt="">
             </li><br>
             </li>
-            <li>원거리 몬스터
-            <li>기본 투사체 발사하는 몬스터 - 원거리에서 플레이어에게 투사체를 날려 데미지를 줌<br>
+            <li>수호검 - 
+            <li>암흑 구체 - <br>
                 <img src="https://github.com/user-attachments/assets/1bbf3924-79f5-4f56-9778-445179d3699d" alt="">
             </li>
-            <li>플레이어의 위치에 독 장판 뿌리는 몬스터 - 원거리에서 플레이어가 있는 지점으로 독 장판을 생성시키며 독 장판에 있는 플레이어에게 데미지를 줌<br>
+            <li>얼음 미사일 - <br>
                 <img src="https://github.com/user-attachments/assets/a02a4144-b8f0-417d-9e2a-1fa44bc164ea" alt="">
             </li><br>
+            <li>얼음 방패 - 
             </li>
-            <li>엘리트 몬스터
-            <li>근거리 엘리트 몬스터
-            <li>러쉬 몬스터 - 생성 시 속도는 느리지만 점점 빨라지며 플레이어에게 충돌 시 플레이어를 높게 띄우는 에어본을 발생시킴<br>
+            <li>얼음 역장 - 
+            </li>
+            <li>절멸자 - <br>
                 <img src="https://github.com/user-attachments/assets/32322523-dce3-40d2-a135-ae507fbb96a5" alt="">
             </li>
-            <li>대쉬 몬스터 - 플레이어가 사정거리에 들어오면 잠시 대기 후 플레이어를 향해 빠르게 돌진<br>
+            <li>튕기는 수리검 - <br>
                 <img src="https://github.com/user-attachments/assets/024b739a-52cd-40b3-8e8b-058b767b58cd" alt="">
             </li>
+            <li>화염 정령 - 
             </li>
-            <li>원거리 엘리트 몬스터
-            <li>3갈래 투사체 발사 몬스터 - 플레이어의 방향을 기준으로 3갈래로 나가는 투사체를 발사 함<br>
+            <li>전사 기본 무기 - <br>
                 <img src="https://github.com/user-attachments/assets/98ffcbf4-e45d-47f7-a114-28302431fa39" alt="">
             </li>
-            <li>슬로우 투사체 발사 몬스터 - 플레이어를 향해 슬로우가 걸리게 하는 wave투사체를 발사 함<br>
+            <li>마법사 기본 무기 - <br>
                 <img src="https://github.com/user-attachments/assets/b9d429db-35f4-49a9-88ae-8142d8e222a1" alt="">
             </li><br>
-            </li>
-            </li>
             <li>
-                보스 몬스터 - <br>
+                각 종 스텟들 - <br>
                 <img src="https://github.com/user-attachments/assets/556f1f0a-0f44-4576-91eb-0bba982d507a" alt="">
+            </li>
             <li>보스 패턴
+            </li>
             <li>1. 브레스 - 보스 방에 들어갈 시 가장 먼저 나오는 패턴으로 브레스의 범위에 있는 플레이어는 지속적으로 데미지를 받음 <br>
                 <img src="" alt="">
             </li>
@@ -167,8 +169,6 @@
             <li>4. 운석 - 보스방에 들어가고 패턴이 시작되면 지속적으로 정해놓은 시간마다 운석이 떨어지며 운석에 맞으면 데미지를 줌 <br>
                 <img src="" alt="">
             </li>
-            </li>
-            </li>
         </ul>
     </details>
 
@@ -176,6 +176,7 @@
 > - 보스 사냥
 >   ![보스사냥](https://github.com/user-attachments/assets/aa55722b-061e-46e1-9cbf-2729dbafd17a)
 >   ![클리어 화면](https://github.com/user-attachments/assets/96b6174c-f0c0-4c02-a7b9-83ea7e972a79)
+> - 
 
 > - 플레이 후 모인 골드로 능력치 업그레이드(체력 5회 업그레이드로 체력이 1.5배로 늘어남)
 >   ![능력치 업그레이드(체력)](https://github.com/user-attachments/assets/72eafcf0-8a97-43ce-aa9e-d928351dbaad)
