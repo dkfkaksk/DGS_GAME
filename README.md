@@ -38,22 +38,82 @@
 > - 스폰되는 몬스터 사냥(경험치,골드 획득)
 >   ![몬스터 사냥 및 경험치 골드 드랍](https://github.com/user-attachments/assets/451a254c-55c0-4445-95f3-35756c53c703)
 <details>
-<summary>몬스터 종류</summary>
-<ul>
-  <li>근접 몬스터
-    <ul>
-      <li>빠르게 접근해 공격</li>
-      <li>체력은 높음</li>
-    </ul>
-  </li>
-  <li>원거리 몬스터
-    <ul>
-      <li>일정 거리에서 투사체 발사</li>
-      <li>체력은 낮음</li>
-    </ul>
-  </li>
-</ul>
-</details>
+        <summary>몬스터 종류</summary>
+        <ul>
+            <li>근접 몬스터
+                <ul>
+                    <li>일반 근접 몬스터</li>
+                    <li>설명 - </li>
+                    <li><img src="" alt=""></li>
+                    <li>독 몬스터</li>
+                    <li>설명 - </li>
+                    <li><img src="" alt=""></li>
+                    <li>자폭 몬스터</li>
+                    <li>설명 - </li>
+                    <li><img src="" alt=""></li>
+                    <li>분열</li>
+                    <li>설명 - </li>
+                    <li><img src="" alt=""></li><br>
+                </ul>
+            </li>
+            <li>원거리 몬스터
+                <ul>
+                    <li>기본 투사체 발사하는 몬스터</li>
+                    <li>설명 - </li>
+                    <li><img src="" alt=""></li>
+                    <li>플레이어의 위치에 독 장판 뿌리는 몬스터</li>
+                    <li>설명 - </li>
+                    <li><img src="" alt=""></li><br>
+                </ul>
+            </li>
+            <li>엘리트 몬스터
+                <ul>
+                    <li>근거리 엘리트 몬스터
+                        <ul>
+                            <li>러쉬 몬스터</li>
+                            <li>설명 - </li>
+                            <li><img src="" alt=""></li>
+                            <li>대쉬 몬스터</li>
+                            <li>설명 - </li>
+                            <li><img src="" alt=""></li>
+                        </ul>
+                    </li>
+                    <li>원거리 엘리트 몬스터
+                        <ul>
+                            <li>3갈래 투사체 발사 몬스터</li>
+                            <li>설명 - </li>
+                            <li><img src="" alt=""></li>
+                            <li>슬로우 투사체 발사 몬스터</li>
+                            <li>설명 - </li>
+                            <li><img src="" alt=""></li><br>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                보스 몬스터
+                <ul>
+                    <li><img src="" alt=""></li>
+                    <li>보스 패턴
+                        <ul>
+                            <li>1. 브레스</li>
+                            <li>설명 - </li>
+                            <li><img src="" alt=""></li>
+                            <li>2. 토네이도</li>
+                            <li>설명 - </li>
+                            <li><img src="" alt=""></li>
+                            <li>3. 돌진 및 브레스</li>
+                            <li>설명 - </li>
+                            <li><img src="" alt=""></li>
+                            <li>4. 운석</li>
+                            <li>설명 - </li>
+                            <li><img src="" alt=""></li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </details>
 
 > - 레벨업 시 증강 선택으로 성장
 
