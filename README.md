@@ -25,12 +25,19 @@
 
 ## 게임 진행
 > - 타이틀 화면
-> - ![DGS 타이틀](https://github.com/user-attachments/assets/e8040b0a-5292-4957-b017-9d503169b003)
+>   ![DGS 타이틀](https://github.com/user-attachments/assets/e8040b0a-5292-4957-b017-9d503169b003)
 
 > - 직업 선택
+>   ![직업 선택](https://github.com/user-attachments/assets/8c9ffb80-72cf-47d0-b260-0d7b6713bade)
+
 > - 게임 시작
+> - 
 > - 스폰되는 몬스터 사냥(경험치,골드 획득)
+> - 
 > - 레벨업 시 증강 선택으로 성장
+> - 
 > - 보스 사냥
+> - 
 > - 플레이 후 모인 골드로 능력치 업그레이드
+> - 
 > - 게임시작
