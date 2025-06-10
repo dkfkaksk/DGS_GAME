@@ -174,41 +174,41 @@
                  <tbody>
                    <tr>
                      <td>체력재생 증가</td>
-                     <td><img src="https://github.com/user-attachments/assets/c2e555f6-60aa-4fa5-af10-b2f8cf56ed12" width="64"/></td>
+                     <td><img src="https://github.com/user-attachments/assets/c2e555f6-60aa-4fa5-af10-b2f8cf56ed12" width="128"/></td>
                      <td>최대체력 증가</td>
-                     <td><img src="https://github.com/user-attachments/assets/01a61952-3e25-4054-aa8a-3f2f062d6e4c" width="64"/></td>
+                     <td><img src="https://github.com/user-attachments/assets/01a61952-3e25-4054-aa8a-3f2f062d6e4c" width="128"/></td>
                    </tr>
                   <tr>
                      <td>치명타 증가</td>
-                     <td><img src="https://github.com/user-attachments/assets/47ab6121-990f-4877-8189-f69a59d92fdc" width="64"/></td>
+                     <td><img src="https://github.com/user-attachments/assets/47ab6121-990f-4877-8189-f69a59d92fdc" width="128"/></td>
                      <td>투사체 개수 증가</td>
-                     <td><img src="https://github.com/user-attachments/assets/bdaf1051-0771-4438-8917-c4d913e4d90e" width="64"/></td>
+                     <td><img src="https://github.com/user-attachments/assets/bdaf1051-0771-4438-8917-c4d913e4d90e" width="128"/></td>
                    </tr>
                   <tr>
                      <td>획득범위 증가</td>
-                     <td><img src="https://github.com/user-attachments/assets/b8ab3353-8afc-44bc-ac24-627411affa2b" width="64"/></td>
+                     <td><img src="https://github.com/user-attachments/assets/b8ab3353-8afc-44bc-ac24-627411affa2b" width="128"/></td>
                      <td>경험치 증가</td>
-                     <td><img src="https://github.com/user-attachments/assets/cedf7b2b-21ca-4c95-9ee0-ca0dccdfdc5d" width="64"/></td>
+                     <td><img src="https://github.com/user-attachments/assets/cedf7b2b-21ca-4c95-9ee0-ca0dccdfdc5d" width="128"/></td>
                    </tr>
                   <tr>
                      <td>공격력 증가</td>
-                     <td><img src="https://github.com/user-attachments/assets/0972674a-864b-4ec8-bf89-4b4e6df0ccde" width="64"/></td>
+                     <td><img src="https://github.com/user-attachments/assets/0972674a-864b-4ec8-bf89-4b4e6df0ccde" width="128"/></td>
                      <td>공격범위 증가</td>
-                     <td><img src="https://github.com/user-attachments/assets/534766b4-88e3-49d7-b6d1-dcdfed7b034c" width="64"/></td>
+                     <td><img src="https://github.com/user-attachments/assets/534766b4-88e3-49d7-b6d1-dcdfed7b034c" width="128"/></td>
                    </tr>
                   <tr>
                      <td>공격속도 증가</td>
-                     <td><img src="https://github.com/user-attachments/assets/f99116d8-4d86-4fa1-a5ee-5f4b310a34b7" width="64"/></td>
+                     <td><img src="https://github.com/user-attachments/assets/f99116d8-4d86-4fa1-a5ee-5f4b310a34b7" width="128"/></td>
                      <td>방어력 증가</td>
-                     <td><img src="https://github.com/user-attachments/assets/8c666789-276d-4834-b427-76bacac5343e" width="64"/></td>
+                     <td><img src="https://github.com/user-attachments/assets/8c666789-276d-4834-b427-76bacac5343e" width="128"/></td>
                    </tr>
                    <tr>
                    </tr>
                   <tr>
                      <td>지속시간 증가</td>
-                     <td><img src="https://github.com/user-attachments/assets/f58db1e9-0aad-4879-b024-f79eba0cdde2" width="64"/></td>
+                     <td><img src="https://github.com/user-attachments/assets/f58db1e9-0aad-4879-b024-f79eba0cdde2" width="128"/></td>
                      <td>이동속도 증가</td>
-                     <td><img src="https://github.com/user-attachments/assets/f0171ece-aee0-4fa7-9147-34280c727e4f" width="64"/></td>
+                     <td><img src="https://github.com/user-attachments/assets/f0171ece-aee0-4fa7-9147-34280c727e4f" width="128"/></td>
                    </tr>
                 </tbody>
               </table>
